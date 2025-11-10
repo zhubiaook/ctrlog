@@ -1,3 +1,3 @@
-module github.com/zhubiaook/ctrlog
+module github.com/demo/ctrlog
 
 go 1.25.1
